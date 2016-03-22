@@ -7,11 +7,15 @@
  
 #正文
   根据欧拉方法我们得到     ![](http://latex.codecogs.com/gif.latex?%24v%28t+%5CDelta%20t%29%5Capprox%20v%28t%29-g%5CDelta%20t%24)
-  若取![](http://latex.codecogs.com/gif.latex?%5CDelta%20t)为某一足够小的近似值，当已知v的初值v0后多次迭代，便可得到之后所有的数值近似解。
+  
   解答本题利用了python程序，程序内容参见[1zuoye.py](https://github.com/1098605130/computationalphysics_N2013301020058/blob/master/chapter1/1zuoye.py)
+  
   我们选择适当时间间隔并运行程序后得到一系列速度与时间的数组（参见[chapter.txt](https://github.com/1098605130/computationalphysics_N2013301020058/blob/master/chapter1/chapter1.txt))
-  并得到图片
-  ![](https://raw.githubusercontent.com/1098605130/computationalphysics_N2013301020058/master/chapter1/chapter1.png)
+
+并得到图片
+
+ ![](https://raw.githubusercontent.com/1098605130/computationalphysics_N2013301020058/master/chapter1/chapter1.png)
+ 
 #结论
 由图可见，自由落体过程中物体速度与时间成线性关系。
 #致谢
