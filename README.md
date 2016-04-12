@@ -27,4 +27,8 @@ I used to know nothing about markdown,so I searched something about [markdown](h
 ##第四次作业
 - 完成第一章的练习题（自己任选一题）
 - 使用matplotlib完成图片的各种细节，认真写报告<br>
-   [**第四次作业链接**](https://github.com/1098605130/computationalphysics_N2013301020058/blob/master/chapter1/README.md)
+   [**第四次作业链接**](https://www.zybuluo.com/mdeditor#300101-full-reader)
+
+##第五次作业
+- 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档<br>
+   [**第五次作业链接**](https://www.zybuluo.com/mdeditor#341760-full-reader)
