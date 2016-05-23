@@ -32,3 +32,6 @@ I used to know nothing about markdown,so I searched something about [markdown](h
 ##第五次作业
 - 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档<br>
    [**第五次作业链接**](https://www.zybuluo.com/mdeditor#341760-full-reader)
+
+##第六次作业
+　　[**第六次作业链接**](https://www.zybuluo.com/mdeditor#386902-full-reader)
