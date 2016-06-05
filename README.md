@@ -35,3 +35,5 @@ I used to know nothing about markdown,so I searched something about [markdown](h
 
 ##第六次作业
 　　[**第六次作业链接**](https://www.zybuluo.com/mdeditor#386902-full-reader)
+##第七次作业
+　　[**第七次作业链接**](https://www.zybuluo.com/mdeditor#399980-full-reader)
