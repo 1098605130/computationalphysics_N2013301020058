@@ -27,17 +27,17 @@ I used to know nothing about markdown,so I searched something about [markdown](h
 ##第四次作业
 - 完成第一章的练习题（自己任选一题）
 - 使用matplotlib完成图片的各种细节，认真写报告<br>
-   [**第四次作业链接**](https://www.zybuluo.com/mdeditor#300101-full-reader)
+   [**第四次作业链接**](https://www.zybuluo.com/zhz1098605130/note/300101)
 
 ##第五次作业
 - 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档<br>
-   [**第五次作业链接**](https://www.zybuluo.com/mdeditor#341760-full-reader)
+   [**第五次作业链接**](https://www.zybuluo.com/zhz1098605130/note/341760)
 
 ##第六次作业
-　　[**第六次作业链接**](https://www.zybuluo.com/mdeditor#386902-full-reader)
+　　[**第六次作业链接**](https://www.zybuluo.com/zhz1098605130/note/386902)
 ##第七次作业
-　　[**第七次作业链接**](https://www.zybuluo.com/mdeditor#399980-full-reader)
+　　[**第七次作业链接**](https://www.zybuluo.com/zhz1098605130/note/399980)
 ##第八次作业
-　　[**第八次作业链接**](https://www.zybuluo.com/mdeditor#399681-full-reader)
+　　[**第八次作业链接**](https://www.zybuluo.com/zhz1098605130/note/399681)
 ##第九次作业
-　　[**第九次作业链接**](https://www.zybuluo.com/mdeditor#403603-full-reader)
+　　[**第九次作业链接**](https://www.zybuluo.com/zhz1098605130/note/403603)
