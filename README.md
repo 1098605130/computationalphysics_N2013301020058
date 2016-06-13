@@ -39,7 +39,9 @@ I used to know nothing about markdown,so I searched something about [markdown](h
 　　[**第七次作业链接**](https://www.zybuluo.com/zhz1098605130/note/399980)
 ##第八次作业
 　　[**第八次作业链接**](https://www.zybuluo.com/zhz1098605130/note/399681)
-##第九次作业
+##第九次作业(物理摆)
 　　[**第九次作业链接**](https://www.zybuluo.com/zhz1098605130/note/403603)
-##第十次作业
+##第十次作业(洛伦兹模型)
 　　[**第十次作业链接**](https://www.zybuluo.com/zhz1098605130/note/404881)
+##第十一次作业(行星运动)
+　　[**第十一次作业链接**](https://www.zybuluo.com/zhz1098605130/note/406536)
